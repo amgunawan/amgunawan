@@ -1,28 +1,28 @@
-<!--
-**amgunawan/amgunawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Hi, I'm Angela Melia Gunawan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h3>Software Developer | UI/UX Designer | Data Analysis Enthusiast</h3>
 
-Here are some ideas to get you started:
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amgunawan.business@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amgunawan)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amgunawan)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angellvva)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
-# Hi there, I'm Angela Melia Gunawan 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1seG8xNmo2ajdlOGk0NTB5enhhZGU2eTE4NGZnMGp2cjRnMTZjMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"/>
+</div>
 
-I'm an undergraduate Information Systems for Business student at **Universitas Ciputra Surabaya**, passionate about building end-to-end data solutions, mobile apps, and web platforms that solve real-world problems.
+<br>
+
+I'm an Information Systems for Business student at <b>Universitas Ciputra Surabaya</b> 🇮🇩, passionate about building end-to-end data solutions, mobile apps, and web platforms that solve real-world problems.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Studying at **Universitas Ciputra Surabaya**
-- 🔭 Currently exploring **big data engineering**, **machine learning**, and **mobile & web development**
+- 🔭 Currently exploring **big data engineering**, **machine learning**, and **mobile development**
 - 🌱 Always learning something new — from distributed systems to SwiftUI
 - 💡 I enjoy turning raw data into meaningful insights and intuitive user experiences
 - 📍 Based in **Indonesia**
@@ -30,59 +30,65 @@ I'm an undergraduate Information Systems for Business student at **Universitas C
 ---
 
 ## 🛠️ Tech Stack
-
+  
 **Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
+ 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+ 
+**Frontend**
+ 
+[![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/blade)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui)
+ 
+**Backend**
+ 
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org)
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org)
+[![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+ 
 **Data & ML**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-**Web & Mobile**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat&logo=swift&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [🚚 Big Data Pipeline](https://github.com/amgunawan/big-data-project-class-b_team3) | End-to-end pipeline for delivery operations analytics with live dashboards | Python, Distributed Systems |
-| [📊 Data Mining Collection](https://github.com/amgunawan/DataMining_Angela-Melia-Gunawan) | Preprocessing, analysis, visualization & ML on real-world datasets | Python, Jupyter |
-| [🍔 QuickBite App](https://github.com/amgunawan/QuickBite-App) | iOS food-ordering app for campus students and lecturers | SwiftUI |
-| [🛍️ Skintifix Beauty Store](https://github.com/amgunawan/Skintifix-Beauty-Store) | E-commerce platform for skincare & cosmetics | Laravel, Blade |
-| [📚 LibraryHub](https://github.com/amgunawan/library-management-system) | Admin & user portals for book borrowing and inventory | Laravel, Blade |
-| [🌡️ Temperature Forecasting](https://github.com/amgunawan/Temperature-Forecasting-and-Climate-Factor-Correlation) | SARIMA, Holt-Winters & Random Forest for climate prediction | Python, Jupyter |
+ 
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
+ 
+**Database**
+ 
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+ 
+**IDEs & Tools**
+ 
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
+[![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![Herd](https://img.shields.io/badge/Laravel%20Herd-F9322C?style=for-the-badge&logo=laravel&logoColor=white)](https://herd.laravel.com)
+[![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org)
+[![DBngin](https://img.shields.io/badge/DBngin-00C2FF?style=for-the-badge&logo=databricks&logoColor=white)](https://dbngin.com)
+[![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amgunawan)
 
 ---
 
-## 📈 GitHub Stats
+## 💻 Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amgunawan&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgunawan&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
+<img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amgunawan&theme=dark"/>
 
 ---
 
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amgunawan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/amgunawan)
-
----
-
-<p align="center">Thanks for stopping by! 😊</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=400&lines=Thanks+for+stopping+by!+%F0%9F%98%8A;Feel+free+to+explore+my+repos!" alt="footer" />
+</div>
