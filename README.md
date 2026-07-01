@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Angela Melia Gunawan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  <h3>Software Developer | UI/UX Designer | Data Analysis Enthusiast</h3>
+  <h3>Software Developer | Data Analysis Enthusiast</h3>
 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amgunawan.business@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amgunawan)
